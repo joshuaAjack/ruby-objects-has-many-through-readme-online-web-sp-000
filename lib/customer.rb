@@ -42,6 +42,8 @@ class Customer
         oldest_age = customer.age
         oldest_customer = customer
       end
+    end
     oldest_customer
   end
- end
+ 
+end
